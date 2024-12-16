@@ -21,7 +21,7 @@ class Product
     }
     void displayProductInfo()
     {
-        System.out.println("ProducrId : "+productId);
+        System.out.println("ProductId : "+productId);
         System.out.println("ProductName : "+productName);
         System.out.println("Product Price : "+price);
     }
